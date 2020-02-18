@@ -35,14 +35,27 @@ Saída
 Restrições 1 ≤ N ≤ 1018 
  
 Exemplo 
- 
-Exemplo de entrada  -  Saída para o exemplo de entrada 
-1                      1 
-4                      5 
-11                     12 
-12                     15 
-440                    666 
- 
+  
+ <table>
+  <tr>
+   <th>exemplo de entrada</th>
+   <th>saída para o exemplo de entrada
+  </tr>
+  <tr>
+   <td>1</td><td>1</td>
+ </tr>
+ <tr>
+   <td>4</td><td>5</td>
+ </tr>
+ <tr>
+   <td>11</td><td>12</td>
+ </tr>
+ <tr>
+   <td>12</td><td>15</td>
+ </tr>
+   <td>440</td><td>666</td>
+ </tr>
+ </table>
  
 
 
@@ -66,14 +79,36 @@ Restrições
  
 Exemplos 
  
- 
-Exemplo de entrada        -     Saída para o exemplo de entrada 
-5                               3        
-12345                           3 
-31254                           4
-5  
-31254  
-12345  
-5  
-31254  
-53214 
+ <table>
+  <tr>
+   <th>exemplo de entrada</th>
+   <th>saída para o exemplo de entrada
+  </tr>
+  <tr>
+   <td>5</td><td>3</td>
+ </tr>
+ <tr>
+   <td>12345</td><td>3</td>
+ </tr>
+ <tr>
+   <td>31254</td><td>4</td>
+ </tr>
+ <tr>
+   <td>5</td><td></td>
+ </tr>
+ <tr>
+   <td>31254</td><td></td>
+ </tr>
+ <tr>
+   <td>12345</td><td></td>
+ </tr>
+ <tr>
+   <td>5</td><td></td>
+ </tr>
+ <tr>
+   <td>31254</td><td></td>
+ </tr>
+ <tr>
+   <td>53214</td><td></td>
+ </tr>
+ </table>
